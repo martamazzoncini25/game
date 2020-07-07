@@ -1,0 +1,20 @@
+utenti (chiave primaria id)
+	id
+	nome
+	cognome
+	sesso
+	
+	
+foto (chiave primaria id)
+	id 
+	titolo 
+	indirizzo
+	
+	
+biografie (chiave primaria = idUtente e IdFoto)
+	idUtente 
+	idFoto 
+	Biografia 
+	data   
+	
+	

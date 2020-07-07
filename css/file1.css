@@ -1,0 +1,84 @@
+#dimensioneCarosello{
+	margin-bottom:50%;
+	margin-top:40%;
+	margin-left:10%;
+	width: 100%;
+	height:50%;
+	
+}
+
+body{
+	
+	background-color:aliceblue;
+	
+}
+.centratutto{
+	margin-bottom:40%;
+	margin-left:50%;
+	margin-right:70%;
+
+	
+	width:100%;
+	height:100%;
+
+	
+	
+}
+.margine{
+	
+	margin-top:3%;
+	margin-left:10%;
+	margin-right:10%;
+	margin-bottom:10%;
+}
+
+.margine:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.disposizione{
+	margin-top:7%;
+	margin-left:40%;
+	margin-right:40%;
+	margin-bottom:40%;
+	
+	
+}
+#logo{
+	
+	 border-radius: 8px;
+	
+}
+.testolaterale{
+   	margin-left:3%;
+  float: left;
+  width: 45%;
+  padding: 10px;
+
+	
+}
+.centramenu{
+	margin-top:5%;
+	margin-left:40%;
+	margin-right:40%;
+	margin-bottom:40%;
+	background-color:aliceblue;
+
+}
+.immaginelaterale1{
+  float: right;
+  width: 45%;
+  height:40%;
+  padding: 10px;
+  margin-left:30%;
+  margin-top:5%;
+}
+
+.immaginelaterale{
+  float: left;
+  width: 45%;
+  height:40%;
+  padding: 10px;
+
+}

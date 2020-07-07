@@ -1,0 +1,23 @@
+body{
+	
+	background-color:aliceblue;
+	
+}
+.dimensioneCarosello{
+	margin-top:4%;
+	margin-left:20%;
+	margin-bottom:20%;
+	width: 50%;
+	height:30%;
+	
+}
+.centratutto{
+	 margin-left:38%;
+	 
+}
+.allineacard{
+	justify-content: center;
+	margin-top: 1%;
+	display: flex;
+
+}
